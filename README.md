@@ -17,7 +17,7 @@ The `enterprise_pipeline.py` script serves as a robust backend data manipulation
 ### 📊 Algorithmic Structure
 The pipeline evaluates business impacts using custom scoring matrix allocations:
 
-$$\text{Efficiency Score} = \frac{\text{Business Impact}}{\text{Estimated Hours}}$$
+Efficiency Score = Business Impact / Estimated Hours
 
 ---
 
