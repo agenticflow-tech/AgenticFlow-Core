@@ -13,6 +13,9 @@ An advanced data engineering pipeline that models classical physical systems. It
 ### 3️⃣ Visual Analytics Dashboard (`analytics_dashboard.py`)
 An automated executive reporting engine. It ingests the external physics data streams and instantly generates real-time vector charts and trend graphs for professional data review.
 
+### 4️⃣ Autonomous Data Ingestion Pipeline (`data_ingestion.py`)
+An automated input-handling architecture. It detects external local storage logging text files, dynamically strips formatting anomalies or white-space variances, converts raw logs into clean analytical data matrices, and processes automated kinematics verification protocols.
+
 ---
 
 ## 💻 System Execution
