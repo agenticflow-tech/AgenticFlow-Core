@@ -16,6 +16,9 @@ An automated executive reporting engine. It ingests the external physics data st
 ### 4️⃣ Autonomous Data Ingestion Pipeline (`data_ingestion.py`)
 An automated input-handling architecture. It detects external local storage logging text files, dynamically strips formatting anomalies or white-space variances, converts raw logs into clean analytical data matrices, and processes automated kinematics verification protocols.
 
+### 5️⃣ Autonomous JSON Extraction Engine (`json_parser.py`)
+A production-grade web-data parsing framework. It processes incoming nested JSON payloads, programmatically isolates targeted structural components, handles dynamic indexing matrices, and generates normalized analytics data frames using pandas.
+
 ---
 
 ## 💻 System Execution
