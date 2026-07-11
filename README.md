@@ -2,29 +2,22 @@
 
 Enterprise automation pipelines, data sanitization scripts, and backend workflows designed to optimize corporate data structures.
 
-## 🚀 Core Systems: Enterprise Data Pipeline
+## 🚀 Core Systems
 
-The `enterprise_pipeline.py` script serves as a robust backend data manipulation framework. It simulates a production-grade data cleansing process, automatically structuring raw incoming datasets, sanitizing text anomalies, and running mathematical efficiency formulas.
+### 1️⃣ Enterprise Data Pipeline (`enterprise_pipeline.py`)
+A robust backend data manipulation framework. It simulates a production-grade data cleansing process, automatically structuring raw incoming datasets, sanitizing text anomalies, and running mathematical efficiency formulas.
 
-### 🛠️ Technical Implementation
-* **Language:** Python
-* **Data Processing Architecture:** Powered by the `pandas` analytical framework
-* **Key Mechanisms:**
-  * Automated string strip operations (`str.strip()`) to clean unorganized client entries.
-  * Vectorized calculations to compute exact project efficiency metrics.
-  * Clean terminal tabular output configurations.
+### 2️⃣ Kinematics Simulation Engine (`kinematics_pipeline.py`)
+An advanced data engineering pipeline that models classical physical systems. It processes external velocity and displacement vectors over time, structuring the formulas into a clean analytical data matrix.
 
-### 📊 Algorithmic Structure
-The pipeline evaluates business impacts using custom scoring matrix allocations:
-
-Efficiency Score = Business Impact / Estimated Hours
+### 3️⃣ Visual Analytics Dashboard (`analytics_dashboard.py`)
+An automated executive reporting engine. It ingests the external physics data streams and instantly generates real-time vector charts and trend graphs for professional data review.
 
 ---
 
 ## 💻 System Execution
 
-To execute this data module locally within a validated Python runtime environment, run the following command:
+To execute any module locally within your validated Python runtime environment, use:
 
 ```bash
-python enterprise_pipeline.py
- 
+python analytics_dashboard.py
